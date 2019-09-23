@@ -1,21 +1,4 @@
-#  File: Poker.py
-
-#  Description:
-
-#  Student's Name: Mitchel Walker
-
-#  Student's UT EID: mlw3852
-
-#  Course Name: CS 313E 
-
-#  Unique Number: 50725
-
-#  Date Created: 2/17/19
-
-#  Date Last Modified:
-
 import random
-
 
 
 class Card(object):
